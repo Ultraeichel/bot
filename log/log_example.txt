@@ -1,0 +1,1 @@
+username(hashed) | server(hashed) | command | time
